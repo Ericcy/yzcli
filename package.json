@@ -1,0 +1,22 @@
+{
+  "name": "yzcli",
+  "version": "1.0.0",
+  "description": "自定义脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ericcy/yzcli.git"
+  },
+  "keywords": [
+    "脚手架"
+  ],
+  "author": "yz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ericcy/yzcli/issues"
+  },
+  "homepage": "https://github.com/Ericcy/yzcli#readme"
+}
